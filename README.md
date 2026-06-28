@@ -183,6 +183,3 @@ http://localhost:5173
 
 ---
 
-## 👨‍💻 Author
-
-Developed as part of a **Full Stack Web Development** assignment using **React** and **Express.js**.
