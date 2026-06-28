@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1782572343285,
+    "title": "Complete Assignment",
+    "description": "Build React Todo App",
+    "completed": false,
+    "important": false,
+    "dueDate": null,
+    "list": null,
+    "createdAt": "2026-06-27T10:00:00.000Z"
+  },
+  {
+    "id": 1782575645902,
+    "title": "Prepare Java",
+    "description": "Prepare for the exam",
+    "completed": false,
+    "important": false,
+    "dueDate": "2026-06-30",
+    "list": null,
+    "createdAt": "2026-06-27T14:30:00.000Z"
+  }
+]
